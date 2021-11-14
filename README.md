@@ -6,4 +6,4 @@ A partir dos conceitos aprendidos nesta Lab, foram implementados os conceitos ab
  
 ## Descrição do projeto: Criando um APP simples de cadastro de séries em .NET
 
-Aprenda como criar um algoritmo simples de transferência bancária para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums.
+Aprenda como criar um algoritmo simples de cadastro de séries para exercer o pensamento orientado a objetos, o principal paradigma de programação utilizada no mercado. Nesse projeto você vai aprender: Como pensar orientado a objetos, como modelar o seu domínio, como utilizar enums e Interfaces.
